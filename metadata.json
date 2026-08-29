@@ -1,0 +1,6 @@
+{
+  "name": "LumaFind",
+  "description": "Search what your eyes remember. Super-futuristic AI-powered visual memory and multimodal photo gallery.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
